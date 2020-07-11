@@ -5,7 +5,7 @@
 
 - 🔭  I’m currently working on analyzing oceanographic data.
 - 🌱  I’m currently studying Microeconomics at Harvard
-- 📫  How to reach me: [Email](mailto:wkopans123@gmail.com)
+- 📫  How to reach me: [Email](mailto://wkopans123@gmail.com)
 - 😄  Pronouns: He / Him / His
 - :octocat: Comfortable with R, Python, Web Dev, and after a few cups of coffee, Java.
 - ⚡ Fun fact: When we say CTRL, ALT, DEL out load, we don't say the full version of alt... we use its alternative.
