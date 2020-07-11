@@ -5,7 +5,7 @@
 
 - 🔭  I’m currently working on analyzing oceanographic data.
 - 🌱  I’m currently studying Microeconomics at Harvard
-- 📫  How to reach me: 
+- 📫  How to reach me: [Email](mailto:wkopans123@gmail.com)
 > * william.kopans@wheelerschool.org
 > * wkopans123@gmail.com
 - 😄  Pronouns: He / Him / His
