@@ -18,11 +18,11 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FWilliamKopans)
+[![Linkedin Badge](https://img.shields.io/badge/-WilliamKopans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamkopans/)](https://www.linkedin.com/in/williamkopans/)  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FWilliamKopans) 
 <!--- Credit for counter:
 https://hitcounter.pythonanywhere.com/
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-WilliamKopans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamkopans/)](https://www.linkedin.com/in/williamkopans/)
+
 
 <!--- 
 In the future may want to emulate this:
