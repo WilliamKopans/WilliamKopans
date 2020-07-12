@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm William! 👋 </h1>   
-  <p>I am a high school Junior interested in Computer Science, Economics, and well... really anything involving data.</p>
+  <p>A high school Junior interested in Computer Science, Economics, and well... really anything involving data.</p>
   
 ---
 
