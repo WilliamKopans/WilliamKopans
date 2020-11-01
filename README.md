@@ -3,8 +3,7 @@
   
 ---
 
-- 🔭  I’m currently working on analyzing oceanographic data.
-<!--- - 🌱  I’m currently studying Microeconomics at Harvard -->
+- 🔭  I’m currently working on building data analysis tools with Shiny (R Package).
 - 📫  How to reach me: wkopans123@gmail.com
 - 😄  Pronouns: He / Him / His
 - :octocat: Comfortable with R, Python, Web Dev, and after a few cups of coffee, Java.
