@@ -4,7 +4,7 @@
 ---
 
 - 🔭  I’m currently working on building data analysis tools with Shiny (R Package).
-- 📫  How to reach me: wkopans123@gmail.com
+- 📫  How to reach me: william.kopans@wheelerschool.org
 - 😄  Pronouns: He / Him / His
 - :octocat: Comfortable with R, Python, Web Dev, and after a few cups of coffee, Java.
 - ⚡ Fun fact: When we say CTRL, ALT, DEL out load, we don't say the full version of alt... we use its alternative.
