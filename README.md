@@ -3,7 +3,6 @@
   
 ---
 
-- 🔭  I’m currently working on building data analysis tools with Shiny (R Package).
 - 📫  How to reach me: william.kopans@wheelerschool.org
 - 😄  Pronouns: He / Him / His
 - :octocat: Comfortable with R, Python, Web Dev, and after a few cups of coffee, Java.
@@ -13,6 +12,7 @@
 
 
 <!--- 
+- 🔭  I’m currently working on building data analysis tools with Shiny (R Package).
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
