@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there, I'm William! 👋 </h1>   
-  <p>A high school Senior interested in Computer Science, Neuroscience, Economics, and well... really anything involving data.</p>
+  <p>A high school Senior interested in Economics, Neuroscience, Computer Science, and well... really anything involving data.</p>
   
 ---
 
 - 📫  How to reach me: william.kopans@wheelerschool.org
 - 😄  Pronouns: He / Him / His
-- :octocat: Comfortable with R, Python, Web Dev, and after a few cups of coffee, Java.
+- :octocat: Comfortable with R, Python, Web Dev, and, after a few cups of coffee, Java.
 
 
 
