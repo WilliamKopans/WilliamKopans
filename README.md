@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there, I'm William! 👋 </h1>   
-  <p>A high school Senior interested in Economics, Neuroscience, Computer Science, and well... really anything involving data.</p>
+  <p>Incoming freshman at Colby College interested in Economics, Neuroscience, Computer Science, and well... really anything involving data.</p>
   
 ---
 
-- 📫  How to reach me: william.kopans@wheelerschool.org
+- 📫  How to reach me: William.Kopans@Colby.edu
 - 😄  Pronouns: He / Him / His
 - :octocat: Comfortable with R, Python, Web Dev, and, after a few cups of coffee, Java.
 
@@ -17,10 +17,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-WilliamKopans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-kopans/)](https://www.linkedin.com/in/william-kopans/)  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FWilliamKopans) 
-<!--- Credit for counter:
-https://hitcounter.pythonanywhere.com/
--->
+[![Linkedin Badge](https://img.shields.io/badge/-WilliamKopans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-kopans/)](https://www.linkedin.com/in/william-kopans/)
 
 
 <!--- 
