@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm William! 👋 </h1>   
-  <p> Sophomore at Colby College interested in Economics and Data Science.</p>
+  <p> Junior at Colby College studying Economics with minors in Philosophy and Data Science.</p>
   
 ---
 
